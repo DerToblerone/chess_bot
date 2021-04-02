@@ -1,6 +1,6 @@
 #include "Centurio.h"
 #include <iostream>
-#include <stdlib.h>
+
 
 short Centurio::play_move(short move){  //this function modiefies the board and returns a short
                                         //the return value contains information about casteling 

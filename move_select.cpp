@@ -2,7 +2,6 @@
 #include <iostream>
 #include <array>
 #include <algorithm>
-#include <vector>
 #define __MOVEBW 256
 #define __LIMVAL 1000000
 #define __MAXNOD 66000000

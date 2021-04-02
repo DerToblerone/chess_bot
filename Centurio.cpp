@@ -2,11 +2,6 @@
 #include <iostream>
 #include <array>
 #include <algorithm>
-#include <vector>
-#include <random>
-#include <climits>
-#include <stdlib.h>
-#include <cstring>
 #define __MOVEBW 256
 #define __LIMVAL 1000000
 #define __MAXNOD 100000000
