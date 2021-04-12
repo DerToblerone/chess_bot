@@ -1,6 +1,4 @@
 # chess_bot
-my attempt at creating a chess engine in cpp
-
 this is a very basic attempt at a program that plays chess.
 it has no en passant. also it can castle into and out of check.
 the main focus of this was to grasp the basic principle and provide
